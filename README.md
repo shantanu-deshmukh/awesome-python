@@ -180,6 +180,7 @@ _Frameworks for Neural Networks and Deep Learning. Also see [awesome-deep-learni
 _Libraries for Machine Learning. Also see [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning#python)._
 
 - [catboost](https://github.com/catboost/catboost) - A fast, scalable, high performance gradient boosting on decision trees library.
+- [chunktuner](https://github.com/shantanu-deshmukh/chunktuner) - Auto-tune document chunking for RAG with benchmarked strategies, retrieval metrics, optional RAGAS evaluation, CLI, and MCP server.
 - [feature_engine](https://github.com/feature-engine/feature_engine) - sklearn compatible API with the widest toolset for feature engineering and selection.
 - [h2o](https://github.com/h2oai/h2o-3) - Open Source Fast Scalable Machine Learning Platform.
 - [lightgbm](https://github.com/lightgbm-org/LightGBM) - A fast, distributed, high performance gradient boosting framework.
